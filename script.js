@@ -51,6 +51,10 @@ console.log(numOfSentences.length-1);
 */
 
 
+
+
+
+
 const text = prompt ('Enter your text')
 const countingSentence = /[.!?]/
 const numOfSentences = text.split(countingSentence)

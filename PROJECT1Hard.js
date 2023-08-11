@@ -1,3 +1,4 @@
+
 const text = prompt ('Enter your text')
 const countingSentence = /[.!?]/
 const numOfSentences = text.split(countingSentence)

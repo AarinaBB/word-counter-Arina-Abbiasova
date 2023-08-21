@@ -12,3 +12,8 @@ alert (`В тексе всего слов ${wordCount}`)
 alert (`В тексте всего букв ${+ text.match(/[^\s]/g).length}`)
 alert (`Всего символов ${text.length}`)
 alert (`В тексте всего предложений ${numOfSentences.length - 1}`)
+
+
+
+
+
